@@ -9,3 +9,4 @@ Object-Oriented Programming in Java lab work.
 ## Labs
 
 - lab01-classes-and-objects
+- lab02-constructors-static
