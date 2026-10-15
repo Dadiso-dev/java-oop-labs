@@ -14,3 +14,4 @@ Object-Oriented Programming in Java lab work.
 - lab04-inheritance
 - lab05-polymorphism
 - lab06-abstraction
+- lab07-exception-handling
