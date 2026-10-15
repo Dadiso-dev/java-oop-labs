@@ -18,3 +18,4 @@ Object-Oriented Programming in Java lab work.
 - lab08-generics-collections
 - lab09-nested-enums-records
 - lab10-files-lambdas-streams
+- lab11-design-patterns
