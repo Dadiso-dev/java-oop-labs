@@ -11,3 +11,4 @@ Object-Oriented Programming in Java lab work.
 - lab01-classes-and-objects
 - lab02-constructors-static
 - lab03-encapsulation
+- lab04-inheritance
