@@ -12,3 +12,4 @@ Object-Oriented Programming in Java lab work.
 - lab02-constructors-static
 - lab03-encapsulation
 - lab04-inheritance
+- lab05-polymorphism
