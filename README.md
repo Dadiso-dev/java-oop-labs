@@ -16,3 +16,4 @@ Object-Oriented Programming in Java lab work.
 - lab06-abstraction
 - lab07-exception-handling
 - lab08-generics-collections
+- lab09-nested-enums-records
